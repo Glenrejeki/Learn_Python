@@ -13,8 +13,7 @@ nama_user = input("Masukkan nama : ")
 
 bentuk_goa =["|_|"]
 goa_kosong = [bentuk_goa] * 4 # INI EMANG HARUS KOSONG
-goa = goa_kosong.copy() # INI ADALAH TEMPAT BARU UNTUK SI GLENPY
-goa[glenpy_position] = "|0_0|"
+goa = goa_kosong.copy() # INI ADALAH TEMPAT BARU UNTUK SI GLENPYoa[glenpy_position] = "|0_0|"
 
 
 print(f'''

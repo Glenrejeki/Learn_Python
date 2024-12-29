@@ -2,7 +2,7 @@ hobi = "Main bola, berenang, ngoding"
 print(hobi)
 
 hobbies = ["Main bola", "Berenang", "Ngoding", "x", "Main bola", "Berenang", "Ngoding", "x", "Main bola", "Berenang", "Ngoding", "Judi"]
-print(len(hobbies))
+print(len(hobbies))    
 print(hobbies[len(hobbies)-1]) # untuk menampilkan data terkahir tanpa memberitahukan urutan array, tapi kita pakai formula length - 1 atau penjang data kurang satu
 print (f"hobbies -> {hobbies}")
 print(hobbies[0])
