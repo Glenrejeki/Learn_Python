@@ -1,5 +1,5 @@
 import random
-
+import main
 def start():
   while True:
       bentuk_goa = "|_|"
@@ -23,9 +23,10 @@ def start():
       else:
         print(f"\n{goa}\n\nUncchhh kamu kalah 🙊")
 
-      play_again = input("\n\napakah ingin melanjutkan gamenya lagi? [y/n]")
+      play_again = input("\n\napakah ingin melanjutkan gamenya lagi? [y/n] : ").lower()
       if play_again == "n":
-          break
+          main.menu()
+          
       
   print("program selesai!")
 
