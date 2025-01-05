@@ -5,13 +5,13 @@ camera = cv2.VideoCapture(0)
 
 def deteksi_wajah(frame):
   optimazed_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-  faces = detection.detectMultiScale(optimazed_frame, scaleFactor = 1.1)
+  faces = detection.detectMultiScale(optimazed_frame, scaleFactor = 1.1, minSize=(100, 100), minNeighbors=5)
   return faces
 
 def drawer_box(frame):
   faces = deteksi_wajah(frame)
   for x, y, w, h in faces:
-    cv2.rectangle(frame, (x, y), (x + w, y + h),(0,0, 255), 4)
+    cv2.rectangle(frame, (x, y), (x + w, y + h),(255,0, 0), 4)
   
 def close_window():
   camera.release()
@@ -21,6 +21,7 @@ def close_window():
 def main():
   while True:
     _, frame = camera.read()
+    frame = cv2.flip(frame, 1) # ini untuk mirroring
     drawer_box(frame)
     cv2.imshow("GlenFace AI", frame)
 
