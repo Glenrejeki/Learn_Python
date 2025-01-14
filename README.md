@@ -1,23 +1,81 @@
-# Belajar Python 🐍
+# **Belajar Python dari Nol 🚀**  
 
-Selamat datang di repositori GitHub saya! Ini adalah tempat saya menyimpan kode dan catatan yang saya buat selama belajar bahasa pemrograman Python. Saya terinspirasi untuk memulai perjalanan ini untuk meningkatkan kemampuan pemrograman saya dan memahami dasar-dasar Python, semua berkat playlist YouTube oleh [Dea Afrizal](https://youtube.com/playlist?list=PLc6SEcJkQ6DwUhzOcOKmqysBF2FGvQZ0V&si=sw7mYHg1C-QXRBEj) yang sangat bermanfaat.
+Selamat datang di repositori ini! Di sini saya membagikan kode, catatan, dan hasil pembelajaran saya selama mempelajari Python. Proyek ini terinspirasi oleh playlist YouTube yang sangat bermanfaat, dan dirancang untuk membantu pemula memahami dasar-dasar pemrograman Python.  
 
-## Sumber Belajar 📘
+## **Sumber Belajar 📘**  
+Playlist YouTube dari [Dea Afrizal](#) yang mudah dipahami dan ramah untuk pemula adalah panduan utama dalam proyek ini.  
 
-Belajar melalui video adalah cara yang menyenangkan dan efektif, dan saya menggunakan playlist YouTube yang dibuat oleh Dea Afrizal sebagai panduan utama saya. Playlist ini sangat ramah pemula dan membantu saya memahami konsep dengan lebih baik.
+## **Isi Repositori 📁**  
+- **Scripts** 📜: Berisi kode Python dari setiap sesi pembelajaran.  
+- **Notes** 📝: Rangkuman dan catatan untuk memudahkan pemahaman konsep.  
+- **Media** 📷: Gambar dan video hasil tampilan program.  
 
-## Isi Repositori 📁
+---
 
-Dalam repositori ini, Anda akan menemukan:
+## **Penjelasan Sesi**  
 
-- **Scripts** 📜: Berisi script Python yang saya kembangkan selama mengikuti tutorial.
-- **Notes** 📝: Catatan pribadi dan rangkuman dari setiap sesi dalam playlist, yang membantu saya mengingat poin penting.
+### **Sesi 1: Dasar-Dasar Pemrograman dan GitHub**  
+**Penjelasan:**  
+Mempelajari instalasi Python, pembuatan proyek pertama, dan dasar-dasar pemrograman seperti variabel, input-output, serta logika if-else. Diakhiri dengan cara membuat repository GitHub dan commit pertama.  
 
-## Cara Menggunakan 🚀
+**Tampilan Program:**  
+![Sesi 1](media/sesi1_output.png)  
+*Video Demo:* [Link Video](#)  
 
-Untuk menjalankan script yang ada di repositori ini, Anda perlu:
+---  
 
-1. Menginstal Python di komputer Anda. Kunjungi [python.org](https://www.python.org/) untuk unduhan dan instruksi instalasi.
-2. Meng-clone repositori ini:
+### **Sesi 2: Variabel, Input-Output, dan Struktur Data Dasar**  
+**Penjelasan:**  
+Memahami cara mendeklarasikan variabel, mencetak output, menerima input, menggunakan conditional statements, melakukan type casting, bekerja dengan list, dan memanfaatkan library Python.  
+
+**Tampilan Program:**  
+![Sesi 2](media/sesi2_output.png)  
+*Video Demo:* [Link Video](#)  
+
+---  
+
+### **Sesi 3: Looping dan Fungsi**  
+**Penjelasan:**  
+Belajar penggunaan perulangan (`for` dan `while`) untuk tugas berulang serta cara mendefinisikan dan memanfaatkan fungsi untuk membuat kode lebih modular dan efisien.  
+
+**Tampilan Program:**  
+![Sesi 3](media/sesi3_output.png)  
+*Video Demo:* [Link Video](#)  
+
+---  
+
+### **Sesi 4: Simple Code Cleaning**  
+**Penjelasan:**  
+Pembersihan kode untuk meningkatkan keterbacaan dan efisiensi dengan mengikuti standar PEP 8, menghapus kode yang tidak terpakai, dan memberikan komentar yang relevan.  
+
+**Tampilan Program:**  
+![Sesi 4](media/sesi4_output.png)  
+*Video Demo:* [Link Video](#)  
+
+---  
+
+### **Sesi 5: Face Detection dengan OpenCV**  
+**Penjelasan:**  
+Menggunakan pustaka OpenCV untuk mendeteksi wajah pada gambar dan video dengan algoritma Haar Cascade, termasuk implementasi real-time face detection.  
+
+**Tampilan Program:**  
+![Sesi 5](media/sesi5_output.png)  
+*Video Demo:* [Link Video](#)  
+
+---  
+
+### **Sesi 6: Python Database dengan MySQL**  
+**Penjelasan:**  
+Menghubungkan Python dengan database MySQL menggunakan XAMPP dan phpMyAdmin. Melakukan operasi CRUD (Create, Read, Update, Delete) menggunakan pustaka `mysql-connector`.  
+
+**Tampilan Program:**  
+![Sesi 6](media/sesi6_output.png)  
+*Video Demo:* [Link Video](#)  
+
+---
+
+## **Cara Menggunakan 🚀**  
+1. **Instal Python:** Unduh dan instal Python dari [python.org](https://www.python.org).  
+2. **Clone repositori:**  
    ```bash
    git clone https://github.com/username/repo-name.git
