@@ -19,8 +19,10 @@ Playlist YouTube dari [Dea Afrizal](#) yang mudah dipahami dan ramah untuk pemul
 Mempelajari instalasi Python, pembuatan proyek pertama, dan dasar-dasar pemrograman seperti variabel, input-output, serta logika if-else. Diakhiri dengan cara membuat repository GitHub dan commit pertama.  
 
 **Tampilan Program:**  
-![Sesi 1](media/sesi1_output.png)  
-*Video Demo:* [Link Video](#)  
+![image](https://github.com/user-attachments/assets/23271560-b827-4806-befb-8e64cb76c54d)
+
+![image](https://github.com/user-attachments/assets/2715aeac-5968-4a88-938b-5548ad5045c2)
+
 
 ---  
 
@@ -29,7 +31,14 @@ Mempelajari instalasi Python, pembuatan proyek pertama, dan dasar-dasar pemrogra
 Memahami cara mendeklarasikan variabel, mencetak output, menerima input, menggunakan conditional statements, melakukan type casting, bekerja dengan list, dan memanfaatkan library Python.  
 
 **Tampilan Program:**  
-![Sesi 2](media/sesi2_output.png)  
+![image](https://github.com/user-attachments/assets/4fbb6051-2b8d-44e5-b4fc-a817aecccf9f)
+
+![image](https://github.com/user-attachments/assets/1458d263-de2b-41ca-9143-16c1c21360dd)
+
+![image](https://github.com/user-attachments/assets/3c7edaaa-ee22-4dae-8465-095315a39117)
+
+
+
 *Video Demo:* [Link Video](#)  
 
 ---  
@@ -39,7 +48,14 @@ Memahami cara mendeklarasikan variabel, mencetak output, menerima input, menggun
 Belajar penggunaan perulangan (`for` dan `while`) untuk tugas berulang serta cara mendefinisikan dan memanfaatkan fungsi untuk membuat kode lebih modular dan efisien.  
 
 **Tampilan Program:**  
-![Sesi 3](media/sesi3_output.png)  
+![image](https://github.com/user-attachments/assets/9c2922ea-7bd4-402a-ba2e-80a6d73150bc)
+
+![image](https://github.com/user-attachments/assets/4c9677af-ecc1-4ead-a510-51891f67edbb)
+
+![image](https://github.com/user-attachments/assets/ce7cece1-b91c-4ef4-96c6-c639ad038a96)
+
+
+
 *Video Demo:* [Link Video](#)  
 
 ---  
