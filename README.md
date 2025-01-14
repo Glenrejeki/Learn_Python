@@ -39,7 +39,7 @@ Memahami cara mendeklarasikan variabel, mencetak output, menerima input, menggun
 
 
 
-*Video Demo:* [Link Video](#)  
+
 
 ---  
 
@@ -55,9 +55,6 @@ Belajar penggunaan perulangan (`for` dan `while`) untuk tugas berulang serta car
 ![image](https://github.com/user-attachments/assets/ce7cece1-b91c-4ef4-96c6-c639ad038a96)
 
 
-
-*Video Demo:* [Link Video](#)  
-
 ---  
 
 ### **Sesi 4: Simple Code Cleaning**  
@@ -65,8 +62,8 @@ Belajar penggunaan perulangan (`for` dan `while`) untuk tugas berulang serta car
 Pembersihan kode untuk meningkatkan keterbacaan dan efisiensi dengan mengikuti standar PEP 8, menghapus kode yang tidak terpakai, dan memberikan komentar yang relevan.  
 
 **Tampilan Program:**  
-![Sesi 4](media/sesi4_output.png)  
-*Video Demo:* [Link Video](#)  
+![image](https://github.com/user-attachments/assets/0a530a6b-1873-4d0c-b774-5e907d4025e7)
+
 
 ---  
 
@@ -85,8 +82,10 @@ Menggunakan pustaka OpenCV untuk mendeteksi wajah pada gambar dan video dengan a
 Menghubungkan Python dengan database MySQL menggunakan XAMPP dan phpMyAdmin. Melakukan operasi CRUD (Create, Read, Update, Delete) menggunakan pustaka `mysql-connector`.  
 
 **Tampilan Program:**  
-![Sesi 6](media/sesi6_output.png)  
-*Video Demo:* [Link Video](#)  
+![image](https://github.com/user-attachments/assets/9692c2de-ed47-4ebb-8e0d-5bb8a3a46fad)
+![image](https://github.com/user-attachments/assets/d46cbf09-4cc8-41fd-ba2d-a0eaa8aba8ae)
+![image](https://github.com/user-attachments/assets/abb5bf66-42f7-46b8-9254-10907f9452d0)
+![image](https://github.com/user-attachments/assets/6d485624-31ce-455a-86a2-54f391ebe88d)
 
 ---
 
