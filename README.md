@@ -72,8 +72,8 @@ Pembersihan kode untuk meningkatkan keterbacaan dan efisiensi dengan mengikuti s
 Menggunakan pustaka OpenCV untuk mendeteksi wajah pada gambar dan video dengan algoritma Haar Cascade, termasuk implementasi real-time face detection.  
 
 **Tampilan Program:**  
-![Sesi 5](media/sesi5_output.png)  
-*Video Demo:* [Link Video](#)  
+[![Video Demo](https://img.youtube.com/vi/spIsZVeY48k/0.jpg)](https://youtu.be/spIsZVeY48k?si=W1DO2sXoq5PKSYDF)
+
 
 ---  
 
